@@ -1,0 +1,2 @@
+# explorer
+Namada blockchain explorer
