@@ -166,7 +166,7 @@ function Home () {
             <div className='flex flex-col xl:flex-row items-center justify-center w-full py-4 space-y-3 xl:space-y-0 xl:space-x-4'>
                 <div className='bg-[#212529] text-xl flex flex-col justify-center rounded-md w-full py-6 space-y-2 px-4'>
                     <div className='text-xl font-semibold'>Network</div>
-                    <div>shielded-expedition.88f17d1d14</div>
+                    <div>luminara-position.5eef10f5ab83</div>
                 </div>
                 <div className='bg-[#212529] text-xl flex flex-col justify-center rounded-md w-full py-6 space-y-2 px-4'>
                     <div className='text-xl font-semibold'>Total Validators</div>
